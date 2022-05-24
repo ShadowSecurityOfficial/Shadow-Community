@@ -11,7 +11,6 @@ Shadow-Community is our community involving people of many different cultures, i
 ```
 https://discord.com/
 https://github.com/Androz2091/discord-backup
-https://github.com/josegonzalez/python-github-backup
 https://archive.org/
 https://www.gitkraken.com/
 ```
