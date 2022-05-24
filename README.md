@@ -17,7 +17,7 @@ https://www.gitkraken.com/
 ```
 # Requesting a feature
 
-If you would like a feature to be added to Shadow-Manual please request it by opening a issue on GitHub and explaning why it would be of use to the project.
+If you would like a feature to be added to Shadow-Community please request it by opening a issue on GitHub and explaning why it would be of use to the project.
 
 # DISCLAIMER
 
