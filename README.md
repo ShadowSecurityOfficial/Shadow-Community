@@ -10,7 +10,6 @@ Shadow-Community is our community involving people of many different cultures, i
 
 ```
 https://discord.com/
-https://github.com/Androz2091/discord-backup
 https://www.httrack.com/
 https://archive.org/
 https://www.gitkraken.com/
