@@ -1,6 +1,6 @@
 # Shadow-Community
 
-Shadow-Community is our community involving people of many different cultures, it is a very diverse server and you'll find many people who specialize in different area spanning across the globe. Shadow-Community is one discord and one telegram server encompassing many people (ShadowSecurityOfficial) (Our Discord in which we communicate with the community) (ShadowSecurityElite) (Our Discord in which we communicate with team members) and is part of the larger ShadowSecuritySuite, Shadow-Community allows you to talk to different people and make many friends, because here at ShadowSecurity we know the importance of networking.
+Shadow-Community is our community involving people of many different cultures, it is a very diverse server and you'll find many people who specialize in different area spanning across the globe. Shadow-Community is one discord and one telegram server encompassing many people (ShadowSecurityOfficial) (Our Discord in which we communicate with the community) (ShadowSecurityElite) (Our telegram in which we communicate with team members) and is part of the larger ShadowSecuritySuite, Shadow-Community allows you to talk to different people and make many friends, because here at ShadowSecurity we know the importance of networking.
 
 ㊙️ "The more silent you are, the more you can silence." ㊙️
 
@@ -10,7 +10,7 @@ Shadow-Community is our community involving people of many different cultures, i
 
 ```
 https://discord.com/
-https://github.com/Androz2091/discord-backup
+https://xenon.bot/
 https://www.httrack.com/
 https://archive.org/
 https://www.gitkraken.com/
