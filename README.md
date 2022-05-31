@@ -11,9 +11,8 @@ Shadow-Community is our community involving people of many different cultures, i
 ```
 https://discord.com/
 https://telegram.org/
-https://xenon.bot/
-https://www.httrack.com/
-https://archive.org/
+https://xenon.bot/ (Backup)
+https://telegram.org/blog/export-and-more (Backup)
 https://www.gitkraken.com/
 ```
 # Requesting a feature
