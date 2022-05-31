@@ -10,6 +10,7 @@ Shadow-Community is our community involving people of many different cultures, i
 
 ```
 https://discord.com/
+https://telegram.org/
 https://xenon.bot/
 https://www.httrack.com/
 https://archive.org/
