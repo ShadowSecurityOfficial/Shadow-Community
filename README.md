@@ -9,7 +9,7 @@ Shadow-Community is our community involving people of many different cultures, i
 💖 Made possible thanks to these projects 💖
 
 ```
-https://discord.com/ (Keep in mind I am not very fond of Discord and will probably be switching to Revolt when it has more communities)
+https://discord.com/
 https://powercord.dev/ (Best Discord Client)
 https://github.com/hxr404/Discord-Oxygen (Discord Oxygen Allows you to improve your discord experience)
 https://telegram.org/
