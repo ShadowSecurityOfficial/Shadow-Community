@@ -10,6 +10,7 @@ Shadow-Community is our community involving people of many different cultures, i
 
 ```
 https://discord.com/
+https://www.thediscordexperts.com/bots (Setup Bot, Automator, and Hydro)
 https://powercord.dev/ (Best Discord Client)
 https://github.com/hxr404/Discord-Oxygen (Discord Oxygen Allows you to improve your discord experience)
 https://telegram.org/
