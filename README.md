@@ -15,6 +15,7 @@ https://www.thediscordexperts.com/bots (Setup Bot, Automator, and Hydro)
 https://powercord.dev/ (Best Discord Client)
 https://github.com/hxr404/Discord-Oxygen (Discord Oxygen Allows you to improve your discord experience)
 https://telegram.org/
+https://telegramchannels.me/ (Telegram Channel, Bot, Group, and Sticker finder.)
 https://xenon.bot/ (Backup)
 https://telegram.org/blog/export-and-more (Backup)
 https://www.gitkraken.com/
