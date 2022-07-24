@@ -10,6 +10,7 @@ Shadow-Community is our community involving people of many different cultures, i
 
 ```
 https://discord.com/
+https://top.gg/ (Discord Bot/Server Finder)
 https://botghost.com/ (Discord Bot Creator/Hoster)
 https://www.thediscordexperts.com/bots (Setup Bot, Automator, and Hydro)
 https://powercord.dev/ (Best Discord Client)
